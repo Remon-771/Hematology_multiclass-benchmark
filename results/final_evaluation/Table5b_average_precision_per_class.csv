@@ -1,0 +1,7 @@
+Class,Average_Precision
+Severe Leukocytosis Flag,1.0
+Mild-Moderate Leukocytosis,0.9999
+Thrombocytopaenia,0.9992
+Normal / Non-specific,0.997
+Microcytic Hypochromic Anaemia,0.9969
+Macro_average,0.9985999999999999

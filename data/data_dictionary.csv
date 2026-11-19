@@ -1,0 +1,25 @@
+source_column,standardised_name,description,unit_conventional,type,missing_n,missing_pct,min,max,role
+WBC,WBC,White blood cell count,x10^9/L,numeric,1134,8.99,1.51,96.99,feature
+Neutrophil,Neutrophil count,Absolute neutrophil count,x10^9/L,numeric,1207,9.57,0.56,85.61,feature
+Lymphocyte,Lymphocyte count,Absolute lymphocyte count,x10^9/L,numeric,1202,9.53,0.06,51.11,feature
+Monocyte,Monocyte count,Absolute monocyte count,x10^9/L,numeric,1207,9.57,0.01,6.91,feature
+Eosinophil,Eosinophil count,Absolute eosinophil count,x10^9/L,numeric,1199,9.5,0.0,4.23,feature
+Basophil,Basophil count,Absolute basophil count,x10^9/L,numeric,1295,10.26,0.0,21.6,feature
+Neutrophil %,Neutrophil %,Neutrophil percentage of WBC,%,numeric,1519,12.04,18.45,97.4,feature
+Lymphoeyte %,Lymphocyte %,Lymphocyte percentage of WBC (source header misspelt),%,numeric,1498,11.87,2.6,61.1,feature
+Monocyte %,Monocyte %,Monocyte percentage of WBC,%,numeric,1475,11.69,0.3,8.6,feature
+Eosinophil %,Eosinophil %,Eosinophil percentage of WBC,%,numeric,1484,11.76,0.1,5.8,feature
+Basophil %,Basophil %,Basophil percentage of WBC,%,numeric,1837,14.56,0.0,28.4,feature
+RBC,RBC,Red blood cell count,x10^12/L,numeric,55,0.44,1.5,6.54,feature
+Haemoglobin,Haemoglobin,Haemoglobin concentration,g/dL,numeric,4,0.03,3.39,21.94,feature
+HCT,HCT,Haematocrit,%,numeric,0,0.0,12.0,58.0,feature
+MCV,MCV,Mean corpuscular volume,fL,numeric,0,0.0,55.0,110.0,feature
+MCH,MCH,Mean corpuscular haemoglobin,pg,numeric,0,0.0,14.99,40.55,feature
+MCHC,MCHC,Mean corpuscular haemoglobin concentration,g/dL,numeric,0,0.0,25.0,37.99,feature
+RDW,RDW,Red cell distribution width,%,numeric,0,0.0,10.0,25.0,feature
+platelat,Platelet,Platelet count (source header misspelt),x10^9/L,numeric,1719,13.62,5.2,675.14,feature
+mpv,MPV,Mean platelet volume (source header lower-case),fL,numeric,0,0.0,7.0,17.0,feature
+PCT,PCT,Plateletcrit,%,numeric,0,0.0,0.0,0.81,feature
+PDW,PDW,Platelet distribution width,fL or %,numeric,0,0.0,9.0,22.0,feature
+ESR,ESR,Erythrocyte sedimentation rate,mm/h,numeric,1412,11.19,5.0,142.585675,feature
+Disorder_Class,Disorder_Class,Five-category CBC-pattern label (classification target),categorical,categorical,0,0.0,,,target

@@ -1,0 +1,6 @@
+Absolute_count,Percentage,Pearson_r_with_WBC_of_count,Pearson_r_implied_WBC_vs_WBC,Median_rel_error_implied_WBC
+Neutrophil count,Neutrophil %,0.955,1.0,0.0004
+Lymphocyte count,Lymphocyte %,0.848,1.0,0.0013
+Monocyte count,Monocyte %,0.823,1.0,0.0108
+Eosinophil count,Eosinophil %,0.748,0.997,0.0207
+Basophil count,Basophil %,0.706,0.999,0.0053

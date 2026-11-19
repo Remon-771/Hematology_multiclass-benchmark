@@ -1,0 +1,4 @@
+Metric,Point_estimate,95%_CI_low,95%_CI_high
+Accuracy,0.9814,0.9758,0.9865
+Macro-F1,0.9825,0.9774,0.9873
+ROC-AUC (OVR),0.9996,0.9994,0.9998

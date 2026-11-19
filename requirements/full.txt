@@ -1,0 +1,13 @@
+-r base.txt
+lightgbm>=4.0
+xgboost>=2.0
+catboost>=1.2
+optuna>=3.6
+shap>=0.45
+statsmodels>=0.14
+scikit-posthocs>=0.9
+torch>=2.2
+pytorch-tabnet>=4.1
+jupyterlab>=4
+nbconvert>=7
+pytest>=8

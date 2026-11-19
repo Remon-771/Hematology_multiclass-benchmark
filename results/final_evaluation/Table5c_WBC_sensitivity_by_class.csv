@@ -1,0 +1,6 @@
+Class,F1_full_features,F1_WBC_removed,F1_WBC_family_removed,Delta_family_vs_full
+Microcytic Hypochromic Anaemia,0.9674,0.9683,0.9417,-0.0257
+Mild-Moderate Leukocytosis,0.995,0.9772,0.7701,-0.2249
+Normal / Non-specific,0.9675,0.9512,0.7552,-0.2123
+Severe Leukocytosis Flag,1.0,0.9941,0.6692,-0.3308
+Thrombocytopaenia,0.9828,0.9808,0.9257,-0.0571

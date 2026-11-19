@@ -1,0 +1,16 @@
+Class,Rank,Feature,Single_feature_AUC
+Microcytic Hypochromic Anaemia,1,MCV,0.9759
+Microcytic Hypochromic Anaemia,2,MCH,0.9732
+Microcytic Hypochromic Anaemia,3,Haemoglobin,0.8512
+Mild-Moderate Leukocytosis,1,Neutrophil %,0.8578
+Mild-Moderate Leukocytosis,2,Lymphocyte %,0.8102
+Mild-Moderate Leukocytosis,3,Monocyte %,0.7691
+Normal / Non-specific,1,Haemoglobin,0.7465
+Normal / Non-specific,2,WBC,0.7361
+Normal / Non-specific,3,HCT,0.734
+Severe Leukocytosis Flag,1,WBC,1.0
+Severe Leukocytosis Flag,2,Neutrophil count,0.9961
+Severe Leukocytosis Flag,3,Lymphocyte count,0.9636
+Thrombocytopaenia,1,Platelet,0.9744
+Thrombocytopaenia,2,PCT,0.9488
+Thrombocytopaenia,3,Neutrophil count,0.7247

@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.py[cod]
+*.egg-info/
+outputs/
+results/notebook_run/
+.DS_Store
+.env
+*.key
+*.pem
+results/paper_outputs.zip
+catboost_info/

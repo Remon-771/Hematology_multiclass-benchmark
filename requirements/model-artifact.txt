@@ -1,0 +1,6 @@
+# Versions verified to load models/final_model_pipeline.joblib and reproduce Table 5 exactly.
+scikit-learn==1.6.1
+imbalanced-learn==0.13.0
+numpy>=1.26,<2.4
+pandas>=2.0
+joblib>=1.3

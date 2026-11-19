@@ -1,0 +1,17 @@
+{
+  "Hist Gradient Boosting": {
+    "max_iter": 325,
+    "max_depth": 15,
+    "learning_rate": 0.012226732472936992,
+    "l2_regularization": 0.08897610108938384
+  },
+  "Bagging": {
+    "n_estimators": 246,
+    "max_samples": 0.9300870005921182
+  },
+  "Decision Tree": {
+    "max_depth": 8,
+    "min_samples_split": 7,
+    "min_samples_leaf": 6
+  }
+}

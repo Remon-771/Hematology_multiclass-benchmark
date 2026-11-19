@@ -1,0 +1,7 @@
+Class,Brier_score
+Severe Leukocytosis Flag,0.0
+Mild-Moderate Leukocytosis,0.0012
+Thrombocytopaenia,0.0051
+Normal / Non-specific,0.0087
+Microcytic Hypochromic Anaemia,0.0103
+Macro_average,0.00506

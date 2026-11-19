@@ -1,0 +1,2 @@
+Model,CV_MacroF1_mean,CV_MacroF1_std,CV_Accuracy_mean,Base_learners
+Stacking Ensemble,0.9855424217276265,0.0023040087040531523,0.9845454799817983,"Hist Gradient Boosting, Bagging, Decision Tree"

@@ -1,0 +1,24 @@
+name: cbcbench
+channels: [conda-forge]
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - imbalanced-learn
+  - matplotlib
+  - seaborn
+  - joblib
+  - pytest
+  - pip
+  - pip:
+    - lightgbm>=4
+    - xgboost>=2
+    - catboost>=1.2
+    - optuna>=3.6
+    - shap
+    - statsmodels
+    - scikit-posthocs
+    - torch
+    - pytorch-tabnet

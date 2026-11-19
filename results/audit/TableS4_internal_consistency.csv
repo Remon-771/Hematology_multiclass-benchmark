@@ -1,0 +1,5 @@
+Identity,Pearson_r,Median_rel_error
+HCT = RBC x MCV / 10,1.0,0.0001
+MCH = Hb / RBC x 10,1.0,0.0002
+MCHC = Hb / HCT x 100,0.939,0.0002
+Sum of differential percentages (complete rows),,0.0

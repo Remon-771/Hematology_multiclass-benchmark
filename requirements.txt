@@ -1,0 +1,2 @@
+# Core dependencies; use requirements/full.txt (or `pip install -e ".[full,test]"`) to regenerate every output.
+-r requirements/base.txt
